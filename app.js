@@ -7,7 +7,7 @@
  *
  * Structure des données (LocalStorage) :
  *  clé : "etudiants"
- *  valeur : JSON.stringify( [ { id, nom, note, date }, ... ] )
+ 
  * ============================================================
  */
 
