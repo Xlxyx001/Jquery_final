@@ -5,6 +5,23 @@
 
 ---
 
+## Auteurs
+
+Projet réalisé en groupe de 3 étudiants dans le cadre de l'Examen Final jQuery.
+
+| Nom | Rôle |
+|---|---|
+| Gnabri boris + Bolou | HTML + Intégration |
+| Tchicaya André | CSS + Design |
+|Bolou manassé yvan | jQuery + LocalStorage |
+
+---
+
+
+---
+
+
+
 ## 📋 Table des matières
 
 - [Aperçu](#-aperçu)
@@ -15,7 +32,6 @@
 - [Déploiement sur GitHub Pages](#-déploiement-sur-github-pages)
 - [Instructions de test](#-instructions-de-test)
 - [Couleurs conditionnelles](#-couleurs-conditionnelles)
-- [Auteurs](#-auteurs)
 
 ---
 
@@ -176,21 +192,6 @@ Note ≥ 15        →  Fond VERT    (#27ae60)
 ```
 
 Cette logique est gérée dans `app.js` via la fonction `classeNote(note)` et appliquée au `<tr>` via jQuery `.addClass()`.
-
----
-
-## Auteurs
-
-Projet réalisé en groupe de 3 étudiants dans le cadre de l'Examen Final jQuery.
-
-| Nom | Rôle |
-|---|---|
-| Gnabri boris + Bolou | HTML + Intégration |
-| Tchicaya André | CSS + Design |
-|Bolou manassé yvan | jQuery + LocalStorage |
-
----
-
 
 ---
 
