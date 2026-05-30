@@ -1,4 +1,4 @@
-# 🎓 Gestionnaire d'Étudiants — jQuery
+#  Gestionnaire d'Étudiants — jQuery
 
  Mini-application jQuery de gestion d'étudiants avec stockage persistant via LocalStorage.  
  Projet réalisé dans le cadre de l'**Examen Final jQuery**.
