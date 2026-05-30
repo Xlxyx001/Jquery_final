@@ -47,7 +47,7 @@ L'application permet de gérer une liste d'étudiants avec leurs notes. Toutes l
 ##  Structure du projet
 
 ```
-gestionnaire-etudiants/
+Jquery_final/
 │
 ├── index.html      # Structure HTML de l'application
 ├── style.css       # Feuille de styles (design, couleurs, responsive)
