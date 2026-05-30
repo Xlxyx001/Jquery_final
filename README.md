@@ -185,9 +185,9 @@ Projet réalisé en groupe de 3 étudiants dans le cadre de l'Examen Final jQuer
 
 | Nom | Rôle |
 |---|---|
-| Étudiant 1 | HTML + Intégration |
-| Étudiant 2 | CSS + Design |
-| Étudiant 3 | jQuery + LocalStorage |
+| Gnabri boris + Bolou | HTML + Intégration |
+| Tchicaya André | CSS + Design |
+|Bolou manassé yvan | jQuery + LocalStorage |
 
 ---
 
