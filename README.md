@@ -120,7 +120,7 @@ https://<votre-username>.github.io/<nom-du-repo>/
 
 ---
 
-## 🧪 Instructions de test
+## Instructions de test
 
 ### Test 1 — Ajout d'un étudiant
 1. Entrer un nom dans le champ "Nom complet"
