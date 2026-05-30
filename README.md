@@ -194,4 +194,3 @@ Projet réalisé en groupe de 3 étudiants dans le cadre de l'Examen Final jQuer
 
 ---
 
-*README rédigé conformément aux critères d'évaluation du projet.*
