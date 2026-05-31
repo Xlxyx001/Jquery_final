@@ -105,9 +105,7 @@ $(document).ready(function () {
      3. STATISTIQUES RAPIDES
   ────────────────────────────────────────────────────────── */
 
-  /**
-   * Met à jour la barre de statistiques (total, verts, oranges, rouges).
-   */
+
   function mettreAJourStats() {
     const etudiants = lireEtudiants();
     const total  = etudiants.length;
