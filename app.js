@@ -8,7 +8,7 @@
  * Structure des données (LocalStorage) :
  *  clé : "etudiants"
  
- * ============================================================
+
  */
 
 $(document).ready(function () {
